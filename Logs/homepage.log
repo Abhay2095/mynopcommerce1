@@ -1,0 +1,30 @@
+2023-01-14 11:55:15,880 :INFO  :*** Test_003_AddCustomer ***
+2023-01-14 11:55:24,583 :INFO  :login is Successfully done
+2023-01-14 11:55:24,583 :INFO  :start to add customer
+2023-01-14 11:55:48,297 :INFO  :saving customer info
+2023-01-14 11:55:48,298 :INFO  :Add customer validation started
+2023-01-14 11:55:48,748 :INFO  :Add customer Test passed
+2023-01-14 11:55:48,944 :INFO  :ending Add customer test
+2023-01-14 18:16:42,634 :INFO  :SearchCustomerByEmail_004
+2023-01-14 18:16:50,590 :INFO  :login is Successfully done
+2023-01-14 18:16:50,591 :INFO  :starting search customer by email
+2023-01-14 18:16:53,280 :INFO  : search customer by emailiD
+2023-01-14 18:19:38,799 :INFO  :SearchCustomerByEmail_004
+2023-01-14 18:19:53,243 :INFO  :login is Successfully done
+2023-01-14 18:19:53,244 :INFO  :starting search customer by email
+2023-01-14 18:19:57,372 :INFO  : search customer by emailiD
+2023-01-14 18:21:52,884 :INFO  :SearchCustomerByEmail_004
+2023-01-14 18:22:06,272 :INFO  :login is Successfully done
+2023-01-14 18:22:06,273 :INFO  :starting search customer by email
+2023-01-14 18:22:10,842 :INFO  : search customer by emailiD
+2023-01-14 18:25:44,115 :INFO  :SearchCustomerByEmail_004
+2023-01-14 18:26:00,206 :INFO  :login is Successfully done
+2023-01-14 18:26:00,206 :INFO  :starting search customer by email
+2023-01-14 18:26:05,745 :INFO  : search customer by emailiD
+2023-01-14 18:26:09,483 :INFO  :TC_SearchCustomerByEmail_004 finished
+2023-01-14 18:39:54,958 :INFO  :SearchCustomerByEmail_004
+2023-01-14 18:40:25,443 :INFO  :SearchCustomerByName_005
+2023-01-14 18:40:36,118 :INFO  :login is Successfully done
+2023-01-14 18:40:36,118 :INFO  :starting search customer by name
+2023-01-14 18:40:39,944 :INFO  : search customer by name
+2023-01-14 18:40:43,510 :INFO  :TC_SearchCustomerByName_005 finished
